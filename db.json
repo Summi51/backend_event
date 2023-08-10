@@ -1,130 +1,44 @@
 {
-  "users": [
+  "events": [
     {
-      "username": "hello",
-      "email": "abcd@gmail.com",
-      "doctor": true,
-      "password": "pankaj",
-      "id": 1
+      "id": 1,
+      "poster": "https://www.timeoutdubai.com/cloud/timeoutdubai/2023/05/22/gigs-in-dubai-1.png",
+      "name": "Music Festival",
+      "description": "A vibrant music festival featuring top artists from around the world.",
+      "date": "2023-09-15",
+      "location": "Delhi",
+      "category": "Music",
+      "price": 300
     },
     {
-      "username": "prabhat",
-      "email": "prabhat",
-      "doctor": false,
-      "password": "prabhat",
-      "id": 2
-    }
-  ],
-  "appointments": [
-    {
-      "name": "pankaj10",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Dermatologist",
-      "location": "delhi",
-      "date": "2023-08-15",
-      "slots": 8,
-      "fee": "2000",
-      "id": 1
+      "id": 2,
+      "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
+      "name": "Soccer Match",
+      "description": "An exciting soccer match between two rival teams.",
+      "date": "2023-08-28",
+      "location": "Chennai",
+      "category": "Sports",
+      "price": 250
     },
     {
-      "name": "Jane Doe 15",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Psychiatrist",
-      "experience": "10",
-      "location": "Los Angeles",
-      "date": "2021-02-15",
-      "slots": 0,
-      "fee": "150",
-      "id": 2
+      "id": 3,
+      "poster": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-169hero2-teachcode-twenty20.jpg?w=2880&quality=85",
+      "name": "Coding Workshop",
+      "description": "Learn the art of coding with experienced professionals.",
+      "date": "2023-09-05",
+      "location": "Banglore",
+      "category": "Workshop",
+      "price": 150
     },
     {
-      "name": "Mark Johnson",
-      "image": "https://media.istockphoto.com/id/177839842/photo/smiling-doctor-woman-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=infRKfdmTMS8WYFZHF_GPuBpLPszyyXhiP5Er9a50jA=",
-      "specialization": "Pediatrician",
-      "experience": 5,
-      "location": "Chicago",
-      "date": "2021-08-12",
-      "slots": 0,
-      "fee": 100,
-      "id": 3
-    },
-    {
-      "name": "pankaj10",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Dermatologist",
-      "location": "delhi",
-      "date": "2022-08-15",
-      "slots": "10",
-      "fee": "2000",
-      "id": 4
-    },
-    {
-      "name": "Samreen",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Dermatologist",
-      "experience": "10",
-      "location": "Los Angeles",
-      "date": "2023-02-15",
-      "slots": "2",
-      "fee": "150",
-      "id": 5
-    },
-    {
-      "name": "Shifa",
-      "image": "https://media.istockphoto.com/id/177839842/photo/smiling-doctor-woman-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=infRKfdmTMS8WYFZHF_GPuBpLPszyyXhiP5Er9a50jA=",
-      "specialization": "Pediatrician",
-      "experience": 5,
-      "location": "Chicago",
-      "date": "2024-08-15",
-      "slots": 1,
-      "fee": 100,
-      "id": 6
-    },
-    {
-      "name": "pankaj",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Psychiatrist",
-      "location": "delhi",
-      "date": "2022-08-25",
-      "slots": 8,
-      "fee": "2000",
-      "id": 7
-    },
-    {
-      "name": "Summi",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Dermatologist",
-      "location": "delhi",
-      "date": "2023-03-12",
-      "slots": 8,
-      "fee": "2000",
-      "id": 8
-    },
-    {
-      "name": "Samreen",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Cardiologist",
-      "location": "delhi",
-      "date": "2013-08-12",
-      "slots": 8,
-      "fee": "2000",
-      "id": 9
-    },
-    {
-      "name": "Summi",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Cardiologist",
-      "location": "delhi",
-      "date": "2012-08-25",
-      "slots": 8,
-      "fee": "2000",
-      "id": 10
+      "id": 4,
+      "poster": "https://media.npr.org/assets/img/2017/12/21/_harlan_nprmusic10years-149_wide-78a7596027f7b4c023a21ad85f078e8a4165c230-s800-c85.jpg",
+      "name": "Rock Concert",
+      "description": "A high-energy rock concert with electrifying performances.",
+      "date": "2023-09-20",
+      "location": "Mumbai",
+      "category": "Music",
+      "price": 400
     }
   ]
 }
