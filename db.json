@@ -61,18 +61,7 @@
       "id": 4
     },
     {
-      "name": "pankaj10",
-      "experience": "pnkjvshsht1@gmail.com",
-      "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
-      "specialization": "Cardiologist",
-      "location": "delhi",
-      "date": "2012-08-25",
-      "slots": 8,
-      "fee": "2000",
-      "id": 11
-    },
-    {
-      "name": "Jane Doe 15",
+      "name": "Samreen",
       "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
       "specialization": "Dermatologist",
       "experience": "10",
@@ -83,7 +72,7 @@
       "id": 5
     },
     {
-      "name": "Mark Johnson",
+      "name": "Shifa",
       "image": "https://media.istockphoto.com/id/177839842/photo/smiling-doctor-woman-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=infRKfdmTMS8WYFZHF_GPuBpLPszyyXhiP5Er9a50jA=",
       "specialization": "Pediatrician",
       "experience": 5,
@@ -94,7 +83,7 @@
       "id": 6
     },
     {
-      "name": "pankaj10",
+      "name": "pankaj",
       "experience": "pnkjvshsht1@gmail.com",
       "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
       "specialization": "Psychiatrist",
@@ -105,7 +94,7 @@
       "id": 7
     },
     {
-      "name": "pankaj10",
+      "name": "Summi",
       "experience": "pnkjvshsht1@gmail.com",
       "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
       "specialization": "Dermatologist",
@@ -116,7 +105,7 @@
       "id": 8
     },
     {
-      "name": "pankaj10",
+      "name": "Samreen",
       "experience": "pnkjvshsht1@gmail.com",
       "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
       "specialization": "Cardiologist",
@@ -127,7 +116,7 @@
       "id": 9
     },
     {
-      "name": "pankaj10",
+      "name": "Summi",
       "experience": "pnkjvshsht1@gmail.com",
       "image": "https://media.istockphoto.com/id/138205019/photo/happy-healthcare-practitioner.jpg?s=612x612&w=0&k=20&c=b8kUyVtmZeW8MeLHcDsJfqqF0XiFBjq6tgBQZC7G0f0=",
       "specialization": "Cardiologist",
