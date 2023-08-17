@@ -50,5 +50,152 @@
       "category": "Music",
       "price": 400
     }
-  ]
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    },
+    {
+      "id": 2,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    },
+    {
+      "id": 3,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    },
+    {
+      "id": 4,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    },
+    {
+      "id": 5,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    },
+    {
+      "id": 6,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    },
+    {
+      "id": 7,
+      "username": "Summi",
+      "password ": "1234",
+      "avatar": "https://image.pngaaa.com/615/5258615-middle.png",
+      "email": "samreen@gmail"
+    }
+  ],
+  "forum": [
+    {
+      "id": 1,
+      "title": "What is java",
+      "description": "I am biggner i want to learn java",
+      "language": "java",
+      "date": "2021-04-21",
+      "upvotes": "10",
+      "answers": 0
+    },
+    {
+      "id": 2,
+      "title": "What is javaScript",
+      "description": "I am biggner i want to learn javaScript",
+      "language": "javaScript",
+      "date": "2022-04-21",
+      "upvotes": "22",
+      "answers": 2
+    },
+    {
+      "id": 3,
+      "title": "What is React",
+      "description": "What is Context API",
+      "language": "javaScript",
+      "date": "2023-04-22",
+      "upvotes": "40",
+      "answers": 8
+    },
+    {
+      "id": 4,
+      "title": "What is sorting method",
+      "description": "In python all sorting methods",
+      "language": "python",
+      "date": "2011-04-22",
+      "upvotes": "13",
+      "answers": 6
+    },
+    {
+      "id": 5,
+      "title": "What is oops concept",
+      "description": "I am biggner i want to learn javaScript",
+      "language": "java",
+      "date": "2023-05-21",
+      "upvotes": "60",
+      "answers": 7
+    },
+    {
+      "id": 6,
+      "title": "What is callback function in javaScript",
+      "description": "tell me how to create callback function in javaScript",
+      "language": "javaScript",
+      "date": "2011-05-25",
+      "upvotes": "104",
+      "answers": 0
+    },
+    {
+      "id": 7,
+      "title": "What is DSA",
+      "description": "I am biggner i want to learn dsa in python",
+      "language": "python",
+      "date": "2021-04-23",
+      "upvotes": "122",
+      "answers": 0
+    },
+    {
+      "id": 8,
+      "title": "What is loop works in python",
+      "description": "while or for loop specially",
+      "language": "python",
+      "date": "2021-04-11",
+      "upvotes": "105",
+      "answers": 88
+    },
+    {
+      "id": 9,
+      "title": "What is javaScript used bebal",
+      "description": "Bebal compilar works",
+      "language": "javaScript",
+      "date": "2012-05-21",
+      "upvotes": "44",
+      "answers": 5
+    },
+    {
+      "id": 10,
+      "title": "What is java used multithreading",
+      "description": "What is multithreading in java",
+      "language": "java",
+      "date": "2022-04-18",
+      "upvotes": "13",
+      "answers": 4
+    }
+  ],
+  "profile": {
+    "name": "codestyle"
+  }
 }
+
